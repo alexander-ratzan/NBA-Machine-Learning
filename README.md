@@ -13,6 +13,8 @@ To actually run the notebooks you must pip to install basketball_reference_web_s
 pip install basketball_reference_web_scraper --ignore-installed
 ```
 
+Run all cells in order for data loading (be patient).
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
